@@ -1,0 +1,1 @@
+web: gunicorn salary_flask_app:app
